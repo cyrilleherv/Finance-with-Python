@@ -1,0 +1,624 @@
+Name,Ticker,Sector,Volume
+AGRIPOWER,ALAGP.PA,Pétrole et Gaz,12112
+BOOSTHEAT,ALBOO.PA,Pétrole et Gaz,18724615
+CGG,CGG.PA,Pétrole et Gaz,8418679
+CHARWOOD ENERGY,ALCWE.PA,Pétrole et Gaz,97
+DOLFINES,ALDOL.PA,Pétrole et Gaz,10877659
+ECOSLOPS,ALESA.PA,Pétrole et Gaz,1680
+ENERTIME,ALENE.PA,Pétrole et Gaz,292858
+ENOGIA,ALENO.PA,Pétrole et Gaz,6211
+ENTECH,ALESE.PA,Pétrole et Gaz,7019
+EO2,ALEO2.PA,Pétrole et Gaz,55
+ESSO,ES.PA,Pétrole et Gaz,11778
+GLOBAL BIOENERGIES,ALGBE.PA,Pétrole et Gaz,9718
+GTT (GAZTRANSPORT ET TEC.),GTT.PA,Pétrole et Gaz,105927
+HAFFNER ENERGY,ALHAF.PA,Pétrole et Gaz,4589
+HRS (HYDROGEN REFUELING SOL.),ALHRS.PA,Pétrole et Gaz,10341
+LHYFE,LHYFE.PA,Pétrole et Gaz,35567
+MAUREL & PROM,MAU.PA,Pétrole et Gaz,188925
+MCPHY ENERGY,MCPHY.PA,Pétrole et Gaz,86761
+NHOA,NHOA.PA,Pétrole et Gaz,10195
+SEQUA PETROLEUM,MLSEQ.PA,Pétrole et Gaz,10001
+SLB,SLB.PA,Pétrole et Gaz,20544
+TECHNIP ENERGIES,TE.PA,Pétrole et Gaz,551898
+TOTALENERG GAB,EC.PA,Pétrole et Gaz,1193
+TOTALENERGIES,TTE.PA,Pétrole et Gaz,3278520
+VALLOUREC,VK.PA,Pétrole et Gaz,807161
+VERGNET,ALVER.PA,Pétrole et Gaz,30364
+WAGA ENERGY,WAGA.PA,Pétrole et Gaz,10029
+AFYREN,ALAFY.PA,Matériaux de base,14136
+AIR LIQUIDE,AI.PA,Matériaux de base,531236
+AMOEBA,ALMIB.PA,Matériaux de base,101933
+ARKEMA,AKE.PA,Matériaux de base,133322
+AUPLATA MNG GRP,ALAMG.PA,Matériaux de base,222536485
+BAIKOWSKI,ALBKK.PA,Matériaux de base,512
+CARBIOS,ALCRB.PA,Matériaux de base,13038
+COGRA,ALCOG.PA,Matériaux de base,1573
+COIL,ALCOI.PA,Matériaux de base,43
+ENCRES DUBUIT,ALDUB.PA,Matériaux de base,464
+ERAMET,ERA.PA,Matériaux de base,42333
+EXACOMPTA,ALEXA.PA,Matériaux de base,74
+EXPL & PROD CHIM,EXPL.PA,Matériaux de base,142
+FERMENTALG,FALG.PA,Matériaux de base,194722
+FLORENTAISE,ALFLO.PA,Matériaux de base,266
+GOLD BY GOLD,ALGLD.PA,Matériaux de base,2785
+GROUPE BERKEM,ALKEM.PA,Matériaux de base,1528
+IMERYS,NK.PA,Matériaux de base,36175
+JACQUET METALS,JCQ.PA,Matériaux de base,3301
+METABOLIC EXPLORER,METEX.PA,Matériaux de base,14940
+MOULINVEST,ALMOU.PA,Matériaux de base,1839
+ORAPI,ORAP.PA,Matériaux de base,2272
+ROBERTET,RBT.PA,Matériaux de base,291
+ROBERTET CI E87,CBE.PA,Matériaux de base,0
+ROUGIER S.A.,ALRGR.PA,Matériaux de base,1
+ZAMBIA CONS.CAT.B,MLZAM.PA,Matériaux de base,3403
+AB SCIENCE,AB.PA,Santé,150271
+ABIONYX PHARMA,ABNX.PA,Santé,17046
+ABIVAX,ABVX.PA,Santé,12103
+ACTICOR BIOTECH,ALACT.PA,Santé,25086
+ADOCIA,ADOC.PA,Santé,25488
+ADVICENNE,ALDVI.PA,Santé,36783
+AELIS FARMA,AELIS.PA,Santé,463
+AFFLUENT MEDICAL,AFME.PA,Santé,5409
+AMPLITUDE SURG.,AMPLI.PA,Santé,4073
+BASTIDE LE CONFORT MED.,BLC.PA,Santé,7599
+BIOMERIEUX,BIM.PA,Santé,85884
+BIOPHYTIS,ALBPS.PA,Santé,16569616
+BIOSYNEX,ALBIO.PA,Santé,9597
+BLUELINEA,ALBLU.PA,Santé,1975
+BOIRON,BOI.PA,Santé,1797
+BONYF,MLBON.PA,Santé,0
+CARMAT,ALCAR.PA,Santé,33014
+CELLECTIS,ALCLS.PA,Santé,217420
+CLARIANE,CLARI.PA,Santé,512193
+CLARIANE,CLARI.PA,Santé,512193
+CROSSJECT,ALCJ.PA,Santé,58570
+DBV TECHNOLOGIES,DBV.PA,Santé,394111
+DMS,ALDMS.PA,Santé,4873
+ESSILORLUXOTTICA,EL.PA,Santé,399075
+EUROAPI,EAPI.PA,Santé,1084381
+EUROBIO SCIENTIFIC,ALERS.PA,Santé,6372
+EUROFINS SCIENTIFIC,ERF.PA,Santé,210450
+EUROMEDIS GROUP,ALEMG.PA,Santé,629
+GENEURO,GNRO.PA,Santé,11941
+GENFIT,GNFT.PA,Santé,103778
+GENOWAY,ALGEN.PA,Santé,10936
+GENSIGHT BIOLO.,SIGHT.PA,Santé,329779
+GUERBET,GBT.PA,Santé,30208
+HYBRIGENICS,ALHYG.PA,Santé,851471
+I.CERAM,ALICR.PA,Santé,217
+IKONISYS,ALIKO.PA,Santé,3135
+IMPLANET,ALIMP.PA,Santé,200119
+INNATE PHARMA,IPH.PA,Santé,32046
+INTEGRAGEN,ALINT.PA,Santé,1127
+INTRASENSE,ALINS.PA,Santé,15502
+INVENTIVA,IVA.PA,Santé,62263
+IPSEN,IPN.PA,Santé,47113
+LNA SANTE,LNA.PA,Santé,4182
+LUMIBIRD,LBIRD.PA,Santé,9153
+MAAT PHARMA,MAAT.PA,Santé,1386
+MAUNA KEA TECHNOLOGIES,ALMKT.PA,Santé,62981
+MEDESIS PHARMA,ALMDP.PA,Santé,5674
+MEDINCELL,MEDCL.PA,Santé,10098
+NANOBIOTIX,NANO.PA,Santé,45363
+NEOVACS,ALNEV.PA,Santé,2144
+NFL BIOSCIENCES,ALNFL.PA,Santé,13588
+NICOX,ALCOX.PA,Santé,20724
+NOVACYT,ALNOV.PA,Santé,154454
+ONCODESIGN PM,ALOPM.PA,Santé,7675
+ORPEA,ORP.PA,Santé,42849817
+OSE IMMUNO,OSE.PA,Santé,284994
+PHAXIAM THERAPEUTICS,PHXM.PA,Santé,2457
+PLANT ADVANCED,ALPAT.PA,Santé,4723
+POXEL,POXEL.PA,Santé,70135
+PREDILIFE,ALPRE.PA,Santé,721
+QUANTUM GENOMICS,ALQGC.PA,Santé,54900
+RAMSAY GENERALE,GDS.PA,Santé,654
+SAFE,ALSAF.PA,Santé,9407246
+SANOFI,SAN.PA,Santé,1023894
+SARTORIUS STEDIM BIOTECH,DIM.PA,Santé,56948
+SENSORION,ALSEN.PA,Santé,69521
+SMAIO,ALSMA.PA,Santé,442
+SPINEGUARD,ALSGD.PA,Santé,64618
+SPINEWAY,ALSPW.PA,Santé,79231
+THERACLION,ALTHE.PA,Santé,50528
+THERANEXUS,ALTHX.PA,Santé,363973
+THERAVET,ALVET.PA,Santé,8955
+TME PHARMA,ALTME.PA,Santé,326497
+TRANSGENE,TNG.PA,Santé,14255
+VALBIOTIS,ALVAL.PA,Santé,19341
+VALERIO THERAPEUTICS,ALVIO.PA,Santé,39584
+VALNEVA,VLA.PA,Santé,965962
+VETOQUINOL,VETO.PA,Santé,3534
+VIRBAC,VIRP.PA,Santé,2817
+VISIOMED GROUP,ALVMG.PA,Santé,207031
+ABEO,ABEO.PA,Biens de consommation,258
+ADVINI,ALAVI.PA,Biens de consommation,41
+AKWEL,AKW.PA,Biens de consommation,1635
+AMATHEON AGRI,MLAAH.PA,Biens de consommation,1000
+ARCHOS,ALJXR.PA,Biens de consommation,1915434
+AST GROUPE,ALAST.PA,Biens de consommation,42991
+ATARI,ALATA.PA,Biens de consommation,120938
+BASSAC,BASS.PA,Biens de consommation,1973
+BENETEAU,BEN.PA,Biens de consommation,78260
+BIC,BB.PA,Biens de consommation,29203
+BIGBEN INTERACTIVE,BIG.PA,Biens de consommation,18937
+BONDUELLE,BON.PA,Biens de consommation,34589
+BURELLE,BUR.PA,Biens de consommation,26
+CABASS RTS 21.03.24,CABDS.PA,Biens de consommation,1416
+CABASSE,ALCAB.PA,Biens de consommation,940
+CATANA GROUP,CATG.PA,Biens de consommation,61682
+CHRISTIAN DIOR,CDI.PA,Biens de consommation,4326
+COTY RG-A,COTY.PA,Biens de consommation,680
+CRYPTO BLOCKCHAIN IND.,ALCBI.PA,Biens de consommation,115609
+CYBERGUN,ALCYB.PA,Biens de consommation,988941
+DANONE,BN.PA,Biens de consommation,1121445
+DELFINGEN,ALDEL.PA,Biens de consommation,375
+DELTA PLUS GRP,ALDLT.PA,Biens de consommation,608
+DONTNOD,ALDNE.PA,Biens de consommation,19313
+FLEURY MICHON,ALFLE.PA,Biens de consommation,29
+FOCUS ENTERTAIN,ALFOC.PA,Biens de consommation,13025
+FORVIA,FRVIA.PA,Biens de consommation,788110
+FOUNTAINE PAJOT,ALFPC.PA,Biens de consommation,632
+FRANCE TOURISME,MLFTI.PA,Biens de consommation,0
+GROUPE AIRWELL,ALAIR.PA,Biens de consommation,81
+GROUPE JAJ (EX JAJ DISTRIBUTION),GJAJ.PA,Biens de consommation,8
+HERMES INTL,RMS.PA,Biens de consommation,35192
+HEXAOM,ALHEX.PA,Biens de consommation,4298
+HOPIUM,ALHPI.PA,Biens de consommation,351924
+INTERPARFUMS,ITP.PA,Biens de consommation,31684
+JACQUES BOGART,JBOG.PA,Biens de consommation,240
+KAUFMAN ET BROAD,KOF.PA,Biens de consommation,9842
+KKO INTL,ALKKO.PA,Biens de consommation,443200
+L'OREAL,OR.PA,Biens de consommation,220303
+LANSON-BCC,ALLAN.PA,Biens de consommation,2303
+LAURENT PERRIER,LPE.PA,Biens de consommation,130
+LDC,LOUP.PA,Biens de consommation,442
+LEXIBOOK LINGUIST,ALLEX.PA,Biens de consommation,6318
+LVMH,MC.PA,Biens de consommation,228912
+MAISONS DU MONDE,MDM.PA,Biens de consommation,47275
+MALTER.FRANCO-BEL,MALT.PA,Biens de consommation,38
+MARIE BRIZARD,MBWS.PA,Biens de consommation,4180
+MASTRAD,ALMAS.PA,Biens de consommation,101422
+MG INTERNATIONAL,ALMGI.PA,Biens de consommation,1973
+MICHELIN,ML.PA,Biens de consommation,855796
+MILIBOO,ALMLB.PA,Biens de consommation,7097
+NACON,NACON.PA,Biens de consommation,65816
+OMER-DECUGIS & CIE,ALODC.PA,Biens de consommation,901
+PAULIC MEUNERIE,ALPAU.PA,Biens de consommation,953
+PERNOD RICARD,RI.PA,Biens de consommation,272062
+PISCINES DESJOYAUX,ALPDX.PA,Biens de consommation,3083
+PLASTIC OMNIUM,POM.PA,Biens de consommation,148028
+POULAILLON,ALPOU.PA,Biens de consommation,256
+RACING FORCE,ALRFG.PA,Biens de consommation,111
+RAPID NUTRI,ALRPD.PA,Biens de consommation,386719
+REMY COINTREAU,RCO.PA,Biens de consommation,94859
+RENAULT,RNO.PA,Biens de consommation,960172
+ROCHE BOBOIS,RBO.PA,Biens de consommation,552
+SAINT JEAN GRP,SABE.PA,Biens de consommation,6
+SAMSE,SAMS.PA,Biens de consommation,29
+SAPMER,ALMER.PA,Biens de consommation,1126
+SAVENCIA,SAVE.PA,Biens de consommation,1913
+SAVONNERIE  NYONS,MLSDN.PA,Biens de consommation,0
+SEB,SK.PA,Biens de consommation,42254
+SMCP,SMCP.PA,Biens de consommation,231560
+ST DUPONT,DPT.PA,Biens de consommation,65100
+STELLANTIS,STLAP.PA,Biens de consommation,1563183
+TIPIAK,TIPI.PA,Biens de consommation,309
+TRIGANO,TRI.PA,Biens de consommation,15187
+U10 CORP,ALU10.PA,Biens de consommation,4016
+UBISOFT ENTERTAIN.,UBI.PA,Biens de consommation,536799
+VALEO,FR.PA,Biens de consommation,1213811
+VEOM GROUP,ALVG.PA,Biens de consommation,14958
+VINPAI,ALVIN.PA,Biens de consommation,120
+VRANKEN-POMMERY MO.,VRAP.PA,Biens de consommation,2163
+WINFARM,ALWF.PA,Biens de consommation,369
+ACTIA GROUP,ALATI.PA,Industries,5606
+ADEUNIS,ALARF.PA,Industries,2424
+ADP,ADP.PA,Industries,75593
+AIRBUS,AIR.PA,Industries,642004
+ALPHA M.O.S.,ALNEO.PA,Industries,47174
+ALSTOM,ALO.PA,Industries,1154046
+ALTHEORA,ALORA.PA,Industries,29895
+AMA CORP,ALAMA.PA,Industries,410645
+AQUILA,ALAQU.PA,Industries,632
+ARCURE,ALCUR.PA,Industries,22809
+ASSYSTEM,ASY.PA,Industries,5402
+AUGROS COSM PACK,AUGR.PA,Industries,1020
+AUREA,AURE.PA,Industries,621
+BALYO,BALYO.PA,Industries,3990
+BIO-UV GRP,ALTUV.PA,Industries,7251
+BOA CONCEPT,ALBOA.PA,Industries,219
+BOLLORE SE,BOL.PA,Industries,582528
+BOUYGUES,EN.PA,Industries,608991
+BUREAU VERITAS,BVI.PA,Industries,276599
+C.I.F.E,INFE.PA,Industries,0
+CATERPILLAR,CATR.PA,Industries,14
+CERINNOV GROUP,ALPCV.PA,Industries,4026
+CHARGEURS,CRI.PA,Industries,18062
+CIS (CATERING INTL SERVICES),ALCIS.PA,Industries,506
+CLASQUIN,ALCLA.PA,Industries,590
+COFIDUR,ALCOF.PA,Industries,18
+COGELEC,ALLEC.PA,Industries,21
+COMP DE L'ODET,ODET.PA,Industries,966
+CROSSWOOD,CROS.PA,Industries,179
+DASSAULT AVIATION,AM.PA,Industries,60453
+DBT,ALDBT.PA,Industries,47198
+DERICHEBOURG,DBG.PA,Industries,194008
+DLSI,ALDLS.PA,Industries,200
+DOCKS PETR.D'AMBE,DPAM.PA,Industries,1
+DRONE VOLT,ALDRV.PA,Industries,3436319
+EDENRED,EDEN.PA,Industries,500376
+EDILIZIACROB,ALEAC.PA,Industries,671
+EGIDE,ALGID.PA,Industries,66398
+EIFFAGE,FGR.PA,Industries,198475
+ELIS,ELIS.PA,Industries,533300
+EUROPLASMA,ALEUP.PA,Industries,51006181
+EXAIL TECH,EXA.PA,Industries,25297
+EXEL INDUSTRIES A,EXE.PA,Industries,263
+FIGEAC AERO,FGA.PA,Industries,1066
+FORSEE POWER,FORSE.PA,Industries,90230
+FREELANCE.COM,ALFRE.PA,Industries,15607
+GASCOGNE,ALBI.PA,Industries,8100
+GAUSSIN,ALGAU.PA,Industries,59137
+GEA,GEA.PA,Industries,745
+GENERAL ELECTRIC,GNE.PA,Industries,1180
+GETLINK (ex: EUROTUNNEL),GET.PA,Industries,448001
+GEVELOT,ALGEV.PA,Industries,10
+GPE PIZZORNO ENVI,GPE.PA,Industries,270
+GROLLEAU,ALGRO.PA,Industries,490
+GROUPE GUILLIN,ALGIL.PA,Industries,1489
+GROUPE TERA,ALGTR.PA,Industries,38
+H&K,MLHK.PA,Industries,36
+HAULOTTE GROUP,PIG.PA,Industries,1565
+HERIGE,ALHRG.PA,Industries,781
+HIPAY GROUP,ALHYP.PA,Industries,2394
+HOFFMANN GREEN CEMENT TEC.,ALHGR.PA,Industries,9352
+HOPENING,MLHPE.PA,Industries,212
+I2S,ALI2S.PA,Industries,0
+ID LOGISTICS,IDL.PA,Industries,2879
+INSTALLUX,ALLUX.PA,Industries,2
+LACROIX,LACR.PA,Industries,1706
+LATECOERE,LAT.PA,Industries,311689
+LEGRAND,LR.PA,Industries,505559
+LES CONSTRUCTEURS DU BOIS,MLLCB.PA,Industries,623
+LISI,FII.PA,Industries,29221
+LUCIBEL,ALUCI.PA,Industries,126700
+M2I,ALMII.PA,Industries,1
+MADE,MLMAD.PA,Industries,50
+MAKING SCI GRP,ALMKS.PA,Industries,1
+MANITOU BF,MTU.PA,Industries,20385
+MARE NOSTRUM,ALMAR.PA,Industries,1
+MERSEN,MRN.PA,Industries,16704
+MGI DIGIT TECH,ALMDG.PA,Industries,1539
+MND,ALMND.PA,Industries,1425
+MON COURTIER ENERGIE,ALMCE.PA,Industries,566
+NEOLIFE,ALNLF.PA,Industries,155415
+NEXANS,NEX.PA,Industries,92503
+NSE,ALNSE.PA,Industries,401
+OCTOPUS BIOSAF,MLOCT.PA,Industries,9655
+OENEO,SBT.PA,Industries,21296
+ONE EXPERIENCE,ALEXP.PA,Industries,0
+OREGE,OREGE.PA,Industries,5582
+PLASTiVALOIRE,PVL.PA,Industries,2578
+POUJOULAT,ALPJT.PA,Industries,1713
+PRECIA,ALPM.PA,Industries,601
+PRODWAYS,PWG.PA,Industries,29912
+QUADPACK INDUSTR,ALQP.PA,Industries,1
+REXEL,RXL.PA,Industries,333081
+ROCTOOL,ALROC.PA,Industries,60
+SAFRAN,SAF.PA,Industries,436526
+SAINT-GOBAIN,SGO.PA,Industries,755023
+SCEMI,MLCMI.PA,Industries,0
+SCHNEIDER ELECTRIC,SU.PA,Industries,576535
+SECHE ENVIRON,SCHP.PA,Industries,5619
+SERGE FERRARI,SEFER.PA,Industries,2281
+SIGNAUX GIROD,ALGIR.PA,Industries,90
+SMTPC,ALTPC.PA,Industries,251
+SODITECH,SEC.PA,Industries,900
+SOGECLAIR,ALSOG.PA,Industries,2001
+SPIE,SPIE.PA,Industries,206976
+STEF,STF.PA,Industries,9509
+STIF,ALSTI.PA,Industries,3661
+SYNERGIE,SDG.PA,Industries,886
+TARKETT,TKTT.PA,Industries,2019
+TELEPERFORMANCE,TEP.PA,Industries,898242
+TFF GROUP,TFF.PA,Industries,325
+THALES,HO.PA,Industries,379002
+THERMADOR,THEP.PA,Industries,1915
+TONNER DRONES,ALTD.PA,Industries,204813
+TONNER DRONES,ALTD.PA,Industries,204813
+TOUAX,TOUP.PA,Industries,3752
+TRILOGIQ,ALTRI.PA,Industries,79
+TXCOM,ALTXC.PA,Industries,0
+UV GERMI,ALUVI.PA,Industries,1078
+VAZIVA,MLVAZ.PA,Industries,4
+VERALLIA,VRLA.PA,Industries,131687
+VERNEY CARRON,MLVER.PA,Industries,202
+VICAT,VCT.PA,Industries,15418
+VINCI,DG.PA,Industries,502164
+VUSIONGROUP,VU.PA,Industries,28135
+WORLDLINE,WLN.PA,Industries,1065216
+ARVERNE GROUP,ARVEN.PA,Services aux Collectivités,138
+E-PANGO,ALAGO.PA,Services aux Collectivités,1001
+ELECTR STRASBOURG,ELEC.PA,Services aux Collectivités,350
+ENGIE,ENGI.PA,Services aux Collectivités,3721990
+FINAXO,MLFXO.PA,Services aux Collectivités,1000
+FRANCAISE ENER.,FDE.PA,Services aux Collectivités,7052
+GROUPE OKWIND,ALOKW.PA,Services aux Collectivités,1440
+HYDROGENE DE FRANCE,HDF.PA,Services aux Collectivités,6076
+METHANOR,ALMET.PA,Services aux Collectivités,531
+MINT,ALMIN.PA,Services aux Collectivités,1460
+NEOEN,NEOEN.PA,Services aux Collectivités,140890
+OSMOSUN,ALWTR.PA,Services aux Collectivités,698
+RUBIS,RUI.PA,Services aux Collectivités,950574
+VEOLIA,VIE.PA,Services aux Collectivités,1406483
+VOLTALIA,VLTSA.PA,Services aux Collectivités,479778
+1000MERCIS,ALMIL.PA,Services aux consommateurs,12
+ACCOR,AC.PA,Services aux consommateurs,551552
+AIR FRANCE - KLM,AF.PA,Services aux consommateurs,1263531
+ALGREEN,ALGRE.PA,Services aux consommateurs,762016
+ARAMIS GROUP,ARAMI.PA,Services aux consommateurs,8696
+ARTMARKET.COM,PRC.PA,Services aux consommateurs,2959
+AYVENS (ex ALD),ALD.PA,Services aux consommateurs,514682
+BAINS DE MER MONACO,BAIN.PA,Services aux consommateurs,179
+BELIEVE,BLV.PA,Services aux consommateurs,199449
+BERNARD LOISEAU,ALDBL.PA,Services aux consommateurs,301
+BILENDI,ALBLD.PA,Services aux consommateurs,550
+BOURRELIER GROUP,ALBOU.PA,Services aux consommateurs,0
+CAFOM,CAFO.PA,Services aux consommateurs,1274
+CARREFOUR,CA.PA,Services aux consommateurs,2172770
+CASINO CANNES,FCMC.PA,Services aux consommateurs,1
+CASINO GUIC PER,CO.PA,Services aux consommateurs,1115545
+CIE DES ALPES,CDA.PA,Services aux consommateurs,23459
+CNOVA,CNV.PA,Services aux consommateurs,9
+COMPAGNIE MONT BLANC,MLCMB.PA,Services aux consommateurs,6
+DEEZER,DEEZR.PA,Services aux consommateurs,555
+DEKUPLE,DKUPL.PA,Services aux consommateurs,242
+ECOMIAM,ALECO.PA,Services aux consommateurs,476
+EDITIONS DU SIGNE,MLEDS.PA,Services aux consommateurs,60
+ELIOR GROUP,ELIOR.PA,Services aux consommateurs,278858
+EMOVA GRP,ALEMV.PA,Services aux consommateurs,301
+EUROPACORP,ALECP.PA,Services aux consommateurs,17583
+FDJ,FDJ.PA,Services aux consommateurs,124066
+FIDUCIAL OFF.SOLU,SACI.PA,Services aux consommateurs,1
+FILL UP MEDIA,ALFUM.PA,Services aux consommateurs,1
+FNAC DARTY,FNAC.PA,Services aux consommateurs,28790
+GAUMONT,GAM.PA,Services aux consommateurs,0
+GL EVENTS,GLO.PA,Services aux consommateurs,17385
+GROUPE PAROT,ALPAR.PA,Services aux consommateurs,450
+GROUPE SFPI,SFPI.PA,Services aux consommateurs,14727
+HIGH CO,HCO.PA,Services aux consommateurs,79476
+HOPSCOTCH GRP,ALHOP.PA,Services aux consommateurs,275
+HOTEL REGINA PARIS,ALLHB.PA,Services aux consommateurs,183
+HOTELIERE IMMOBILIERE DE NICE,MLHIN.PA,Services aux consommateurs,14
+HOTELS DE PARIS,HDP.PA,Services aux consommateurs,1086
+HUNYVERS,ALHUN.PA,Services aux consommateurs,1376
+IMPRIMERIE CHIRAT,MLIMP.PA,Services aux consommateurs,6
+INVIBES ADV,ALINV.PA,Services aux consommateurs,3233
+IPSOS,IPS.PA,Services aux consommateurs,31897
+ISPD NETWORK,ALISP.PA,Services aux consommateurs,161
+JCDECAUX,DEC.PA,Services aux consommateurs,134409
+KERING,KER.PA,Services aux consommateurs,178750
+KLARSEN,ALKLA.PA,Services aux consommateurs,3724
+KUMULUS VAPE,ALVAP.PA,Services aux consommateurs,41
+LAGARDERE SA,MMB.PA,Services aux consommateurs,27131
+LEPERMISLIBRE,ALLPL.PA,Services aux consommateurs,1056
+LLAMA GROUP,ALLAM.PA,Services aux consommateurs,25285
+M6 METROPOLE TELE.,MMT.PA,Services aux consommateurs,118797
+MR BRICOLAGE,ALMRB.PA,Services aux consommateurs,1032
+MYHOTELMATCH,MHM.PA,Services aux consommateurs,7008
+NETMEDIA GROUP,ALNMG.PA,Services aux consommateurs,61096
+NEXTEDIA,ALNXT.PA,Services aux consommateurs,55347
+NICOLAS MIGUET N,MLNMA.PA,Services aux consommateurs,100
+NRJ GRP,NRG.PA,Services aux consommateurs,1777
+OL GROUPE,OLG.PA,Services aux consommateurs,2646
+PARTOUCHE,PARP.PA,Services aux consommateurs,210
+PASSAT,PSAT.PA,Services aux consommateurs,628
+PIERRE ET VACANCES,VAC.PA,Services aux consommateurs,98504
+PLUXEE,PLX.PA,Services aux consommateurs,398117
+PRISMAFLEX INTL,ALPRI.PA,Services aux consommateurs,557
+PUBLICIS GROUPE,PUB.PA,Services aux consommateurs,336868
+RALLYE,RAL.PA,Services aux consommateurs,223924
+SIRIUS MEDIA,ALSRS.PA,Services aux consommateurs,49835
+SOC FRANC CASINOS,SFCA.PA,Services aux consommateurs,20
+SODEXO,SW.PA,Services aux consommateurs,173554
+SOLOCAL GROUP,LOCAL.PA,Services aux consommateurs,136928
+SPARTOO,ALSPT.PA,Services aux consommateurs,6064
+SPEED RABBIT PIZZA,MLSRP.PA,Services aux consommateurs,6
+SRP GROUPE,SRP.PA,Services aux consommateurs,37064
+TELEVERBIER,TVRB.PA,Services aux consommateurs,0
+TERACT,TRACT.PA,Services aux consommateurs,79006
+TF1,TFI.PA,Services aux consommateurs,130447
+THE AZUR SEL,MLAZR.PA,Services aux consommateurs,710
+TOOSLA,ALTOO.PA,Services aux consommateurs,5454
+UPERGY,ALUPG.PA,Services aux consommateurs,61
+VANTIVA,VANTI.PA,Services aux consommateurs,150356
+VENTE UNIQUE.COM,ALVU.PA,Services aux consommateurs,669
+VIVENDI,VIV.PA,Services aux consommateurs,4360479
+VOLTZ (GRAINES),GRVO.PA,Services aux consommateurs,3478
+VOYAGEURS DU MONDE,ALVDM.PA,Services aux consommateurs,5640
+WE.CONNECT,ALWEC.PA,Services aux consommateurs,360
+XILAM ANIMATION,XIL.PA,Services aux consommateurs,4097
+ABC ARBITRAGE,ABCA.PA,Sociétés financières,69054
+ACANTHE DEVLP,ACAN.PA,Sociétés financières,5000
+ADOMOS,ALADO.PA,Sociétés financières,17483
+ALAN ALLMAN ASSOCIATES,AAA.PA,Sociétés financières,2391
+ALTAMIR,LTA.PA,Sociétés financières,144
+ALTAREA,ALTA.PA,Sociétés financières,9654
+ALTAREIT,AREIT.PA,Sociétés financières,1
+AMUNDI,AMUN.PA,Sociétés financières,112577
+ANTIN INFRA. PARTNERS,ANTIN.PA,Sociétés financières,47059
+ARGAN,ARG.PA,Sociétés financières,6499
+ARTEA,ARTE.PA,Sociétés financières,142
+ARTOIS N,ARTO.PA,Sociétés financières,10
+ATLAND,ATLD.PA,Sociétés financières,1375
+AUDACIA,ALAUD.PA,Sociétés financières,2858
+AXA,CS.PA,Sociétés financières,3097165
+BNP PARIBAS,BNP.PA,Sociétés financières,2857525
+BOURSE DIRECT,BSD.PA,Sociétés financières,4152
+CA TOULOUSE 31 CCI,CAT31.PA,Sociétés financières,554
+CAMBODGE CIE N,CBDG.PA,Sociétés financières,0
+CAPELLI,ALCAP.PA,Sociétés financières,599
+CARMILA,CARM.PA,Sociétés financières,73294
+CBO TERRITORIA,CBOT.PA,Sociétés financières,13312
+COFACE,COFA.PA,Sociétés financières,247532
+COVIVIO,COV.PA,Sociétés financières,353363
+COVIVIO HTLS,COVH.PA,Sociétés financières,1464
+CRCAM ALPES PROVENCE.CCI,CRAP.PA,Sociétés financières,190
+CRCAM BRIE PIC2CCI,CRBP2.PA,Sociétés financières,2048
+CRCAM ILLE CCI,CIV.PA,Sociétés financières,446
+CRCAM LANGUEDOC,CRLA.PA,Sociétés financières,1009
+CRCAM LOIRE HAUTE LOIRE,CRLO.PA,Sociétés financières,1
+CRCAM MORBIHAN CCI,CMO.PA,Sociétés financières,272
+CRCAM NOR.SE.CCI,CCN.PA,Sociétés financières,73
+CRCAM NORD FRANCE,CNDF.PA,Sociétés financières,3753
+CRCAM PARIS ET IDF,CAF.PA,Sociétés financières,232
+CRCAM SRA CI,CRSU.PA,Sociétés financières,99
+CRCAM TOURAINE CCI,CRTO.PA,Sociétés financières,332
+CREDIT AGRICOLE SA,ACA.PA,Sociétés financières,3612566
+EDUFORM'ACTION,MLEFA.PA,Sociétés financières,4000
+EEM,EEM.PA,Sociétés financières,1020
+EURAZEO,RF.PA,Sociétés financières,119435
+EURONEXT,ENX.PA,Sociétés financières,146748
+FIDUCIAL REAL ESTATE,ORIA.PA,Sociétés financières,1
+FINANCIERE MONCEY,FMONC.PA,Sociétés financières,1
+FONCIERE INEA,INEA.PA,Sociétés financières,523
+FONCIERE LYONNAIS,FLY.PA,Sociétés financières,493
+FOREST EQUATORIAL,FORE.PA,Sociétés financières,0
+FREY,FREY.PA,Sociétés financières,234
+GALIMMO,GALIM.PA,Sociétés financières,1
+GECINA,GFC.PA,Sociétés financières,216925
+Gold Bullion Securities,GBS.PA,Sociétés financières,3076
+HAMILTON GLOBAL OPP,ALHGO.PA,Sociétés financières,1
+ICADE,ICAD.PA,Sociétés financières,184882
+IDI,IDIP.PA,Sociétés financières,705
+IDSUD,ALIDS.PA,Sociétés financières,1
+IMMOB DASSAULT,IMDA.PA,Sociétés financières,1316
+KLEPIERRE,LI.PA,Sociétés financières,401140
+LEBON,ALBON.PA,Sociétés financières,11
+LOIRE ATL.VEND.CCI,CRAV.PA,Sociétés financières,435
+MAISON ANTOINE BAUD,MLMAB.PA,Sociétés financières,45
+MERCIALYS,MERY.PA,Sociétés financières,201313
+NEXITY,NXI.PA,Sociétés financières,226105
+PAREF,PAR.PA,Sociétés financières,335
+PATRIMOINE COM.,PAT.PA,Sociétés financières,561
+PEUGEOT INVEST,PEUG.PA,Sociétés financières,2791
+PHOTONIKE,MLPHO.PA,Sociétés financières,7500
+REALITES,ALREA.PA,Sociétés financières,54
+SCBSM,CBSM.PA,Sociétés financières,21
+SCOR,SCR.PA,Sociétés financières,279053
+SELECTIRENTE,SELER.PA,Sociétés financières,1
+SMALTO,MLSML.PA,Sociétés financières,1000
+SOCIETE GENERALE,GLE.PA,Sociétés financières,1758993
+STRADIM ESPAC.FIN.,ALSAS.PA,Sociétés financières,1102
+TIKEHAU CAPITAL,TKO.PA,Sociétés financières,19904
+TOUR EIFFEL,EIFF.PA,Sociétés financières,21463
+TRAMWAYS DE ROUEN,MLTRA.PA,Sociétés financières,0
+TRANSITION EVERGREEN,EGR.PA,Sociétés financières,5867
+UNIBAIL-RODAMCO-WESTFIELD,URW.PA,Sociétés financières,386361
+UNITI,ALUNT.PA,Sociétés financières,332
+VIEL,VIL.PA,Sociétés financières,3916
+VITURA,VTR.PA,Sociétés financières,112
+WENDEL,MF.PA,Sociétés financières,47058
+WT Agriculture,AIGAP.PA,Sociétés financières,700
+WT All Commodities,AIGCP.PA,Sociétés financières,400
+WT Copper,COPAP.PA,Sociétés financières,7012
+WT Gold,BULLP.PA,Sociétés financières,0
+WT Precious Metals,AIGPP.PA,Sociétés financières,0
+WT Silver,SLVRP.PA,Sociétés financières,60
+WT WTI Crude Oil,CRUDP.PA,Sociétés financières,16033
+2CRSI,AL2SI.PA,Technologies,205018
+ACHETERLOUER.FR,ALALO.PA,Technologies,187330557
+ACTEOS (EX DATATRONIC),EOS.PA,Technologies,1824
+ALCHIMIE,ALCHI.PA,Technologies,533
+ALTEN,ATE.PA,Technologies,37151
+ATEME,ATEME.PA,Technologies,3501
+ATOS,ATO.PA,Technologies,1835913
+AUBAY,AUB.PA,Technologies,10862
+AURES TECHNO.,ALAUR.PA,Technologies,1583
+AXWAY SOFTWARE,AXW.PA,Technologies,1419
+BD MULTI MEDIA,ALBDM.PA,Technologies,22553
+BROADPEAK,ALBPK.PA,Technologies,13125
+CAPGEMINI,CAP.PA,Technologies,249324
+CEGEDIM,CGM.PA,Technologies,2602
+CIBOX INTER ACTIVE,ALCBX.PA,Technologies,242750
+CLARANOVA,CLA.PA,Technologies,87587
+COHERIS,COH.PA,Technologies,18566
+DASSAULT SYSTEMES,DSY.PA,Technologies,872269
+DNXCORP,ALDNX.PA,Technologies,675
+ENENSYS TECHNO,ALNN6.PA,Technologies,501
+ENERGISME,ALNRG.PA,Technologies,13929018
+ENTREPARTICULIERS.COM,ALENT.PA,Technologies,1415
+EQUASENS,EQS.PA,Technologies,15434
+ESKER,ALESK.PA,Technologies,25342
+EXCLUSIVE NETWORKS,EXN.PA,Technologies,26770
+FACEPHI BIOMETR,ALPHI.PA,Technologies,4002
+GECI INTL,ALGEC.PA,Technologies,24141
+GROUPE LDLC,ALLDL.PA,Technologies,4266
+GUILLEMOT CORP.,GUI.PA,Technologies,1909
+HITECHPROS,ALHIT.PA,Technologies,10
+ICAPE HOLDING,ALICA.PA,Technologies,1928
+INFOTEL,INF.PA,Technologies,4140
+INNELEC MULTIMEDIA,ALINN.PA,Technologies,633
+IT LINK,ALITL.PA,Technologies,2915
+ITESOFT,ITE.PA,Technologies,0
+KALRAY,ALKAL.PA,Technologies,24705
+KERLINK,ALKLK.PA,Technologies,15350
+KEYRUS,ALKEY.PA,Technologies,4818
+LARGO,ALLGO.PA,Technologies,2658
+LECTRA,LSS.PA,Technologies,9996
+LINEDATA SERVICES,LIN.PA,Technologies,124
+LLEID SERV TELEM,ALLLN.PA,Technologies,1660
+LOGIC INSTRUMENT,ALLOG.PA,Technologies,82546
+MACOMPTA.FR,MLMCA.PA,Technologies,1686
+MD SERVICES,MLMGL.PA,Technologies,258
+MEDIAN TECHNOLOGIES,ALMDT.PA,Technologies,28178
+MEMSCAP REGPT,MEMS.PA,Technologies,70391
+METAVISIO (THOMSON COMP.),ALTHO.PA,Technologies,205258
+MICROPOLE,ALMIC.PA,Technologies,18530
+MUNIC,ALMUN.PA,Technologies,641
+NAM.R,ALNMR.PA,Technologies,14913
+NETGEM,ALNTG.PA,Technologies,4436
+NEURONES,NRO.PA,Technologies,6215
+NOKIA,NOKIA.PA,Technologies,63009
+OBIZ,ALBIZ.PA,Technologies,1379
+ONLINEFORMAPRO N,MLONL.PA,Technologies,0
+ORDISSIMO,ALORD.PA,Technologies,4801
+OVHCLOUD,OVH.PA,Technologies,53488
+PARROT,PARRO.PA,Technologies,6690
+PERRIER INDUSTRIE,PERR.PA,Technologies,184
+PROACTIS,PROAC.PA,Technologies,550
+PRODWARE,ALPRO.PA,Technologies,50
+PROLOGUE,ALPRG.PA,Technologies,166141
+QUADIENT,QDT.PA,Technologies,22150
+REWORLD MEDIA,ALREW.PA,Technologies,138588
+RIBER,ALRIB.PA,Technologies,33254
+SIDETRADE,ALBFR.PA,Technologies,172
+SOITEC,SOI.PA,Technologies,73544
+SOLUTIONS 30,S30.PA,Technologies,480357
+SOPRA STERIA,SOP.PA,Technologies,23456
+SQLI,SQI.PA,Technologies,2
+STMICROELECTRONICS,STMPA.PA,Technologies,1375387
+STREAMWIDE,ALSTW.PA,Technologies,1159
+SWORD GROUP,SWP.PA,Technologies,10871
+TATATU,ALTTU.PA,Technologies,11
+TRONICS MICROS.,ALTRO.PA,Technologies,116
+UTI GROUP,FPG.PA,Technologies,111
+VERIMATRIX,VMX.PA,Technologies,58955
+VISIATIV,ALVIV.PA,Technologies,16977
+VOGO,ALVGO.PA,Technologies,256
+WALLIX GROUP,ALLIX.PA,Technologies,8569
+WAVESTONE,WAVE.PA,Technologies,7232
+WEDIA,ALWED.PA,Technologies,16
+WITBE,ALWIT.PA,Technologies,1692
+X-FAB SILICON,XFAB.PA,Technologies,152209
+AVENIR TELECOM,AVT.PA,Télécommunications,103585
+CRIT,CEN.PA,Télécommunications,207
+EKINOPS,EKI.PA,Télécommunications,14942
+EUTELSAT COMMUNIC.,ETL.PA,Télécommunications,493880
+HF COMPANY,ALHF.PA,Télécommunications,2828
+MAROC TELECOM,IAM.PA,Télécommunications,21
+ORANGE,ORA.PA,Télécommunications,5058001
+OSMOZIS,ALOSM.PA,Télécommunications,236
+SES,SESG.PA,Télécommunications,355476
